@@ -1,0 +1,26 @@
+_repo: A-Tale-of-Red-Pekin_41951
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41951-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Serjeant, Constancia
+    alias: Serjeant, Constance
+    gutenberg_agent_id: '41916'
+    url: http://www.gutenberg.org/2009/agents/41916
+description: ''
+gutenberg_issued: '2013-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41951'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missions -- China -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'China -- History -- Boxer Rebellion, 1899-1901 -- Juvenile fiction'
+title: A Tale of Red Pekin
+url: http://www.gutenberg.org/ebooks/41951
